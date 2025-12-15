@@ -1,0 +1,5 @@
+The data included in the "Breast Cancer.csv" contains information of breast cancer patients from the Surveillance, Epidemiology, and End Results (SEER) Program of the National Institute of Cancer (2017). 
+The data involved female patients with inltrating duct and lobular carcinoma breast cancer diagnosed in 2006-2010. In total, there are 4024 samples, with 85% pertaining to the Alive class. The dataset contains the 
+following variables, where variables 1-14 correspond to the features and variables 15-16 correspond to the outcomes. 
+
+In addtion to some data exploration, I implement a K-Nearest Neighbor algorithm to determine the patient's status (alive/dead). 
